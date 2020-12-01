@@ -1,2 +1,3 @@
 # python_robot
- dont know if it"s able to get 100,  but work for sample test case.
+don't know if it"s able to get 100,  but work for sample test case.
+don't duplicate base code and be aware of indentation.
